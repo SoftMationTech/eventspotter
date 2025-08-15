@@ -8,6 +8,12 @@ This repository serves as the **public community hub** — a place for sharing i
 
 ---
 
+## 🔗 Project Link
+
+- 🌍 [https://event-spotter.com](https://event-spotter.com) *(also available via [https://event-spotter.at](https://event-spotter.at))*
+
+---
+
 ## 📌 Purpose of This Repository
 
 You can use this space to:
@@ -48,7 +54,7 @@ While public discussion and contributions are encouraged, the codebase remains p
 ## 📬 Contact
 
 Questions or suggestions that don’t fit in Issues or Discussions?  
-Reach out via [office@event-spotter.com].
+Reach out via [office@event-spotter.com](@office@event-spotter.com).
 
 ---
 
