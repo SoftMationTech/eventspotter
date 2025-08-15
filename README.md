@@ -1,6 +1,6 @@
 # EventSpotter
 
-**EventSpotter** is a project developed by **SoftMation e.U.** for the non-profit **Kulturverein EventSpotter**. It automatically discovers and manages events from various online sources.
+**EventSpotter** is a project developed by **[SoftMation e.U.](https://softmation.at)** for the non-profit **[Kulturverein EventSpotter](https://event-spotter.com/articles/kulturverein-eventspotter)**. It automatically discovers and manages events from various online sources.
 
 This repository serves as the **public community hub** — a place for sharing ideas, requesting features, submitting event websites, and participating in discussions.
 
