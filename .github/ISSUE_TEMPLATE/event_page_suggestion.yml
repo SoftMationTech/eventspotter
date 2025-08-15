@@ -1,7 +1,7 @@
 name: 🌍 Event Page Suggestion
 description: Suggest a website where EventSpotter could find events
 title: "[Event Page] "
-labels: [scraper]
+labels: [page request]
 body:
   - type: markdown
     attributes:
