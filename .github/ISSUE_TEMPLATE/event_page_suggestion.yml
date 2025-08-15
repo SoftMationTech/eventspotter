@@ -1,0 +1,35 @@
+name: 🌍 Event Page Suggestion
+description: Suggest a website where EventSpotter could find events
+title: "[Event Page] "
+labels: [scraper]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Know an event website we should support? Suggest it here!
+
+  - type: input
+    id: page_url
+    attributes:
+      label: URL of the event website
+      description: Please paste the full link to the site
+      placeholder: https://www.example.com/events
+    validations:
+      required: true
+
+  - type: textarea
+    id: description
+    attributes:
+      label: What kind of events are listed there?
+      description: Tell us about the site's content (music, exhibitions, etc.)
+      placeholder: "This site lists local jazz events in Vienna..."
+    validations:
+      required: false
+
+  - type: textarea
+    id: additional
+    attributes:
+      label: Anything else we should know?
+      description: (Optional)
+    validations:
+      required: false

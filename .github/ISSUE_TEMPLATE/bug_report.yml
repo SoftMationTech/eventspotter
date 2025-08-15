@@ -1,0 +1,46 @@
+name: 🐛 Bug Report
+description: Report something that doesn't work as expected
+title: "[Bug] "
+labels: [bug]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Please provide as much detail as possible to help us reproduce and fix the issue.
+
+  - type: textarea
+    id: what_happened
+    attributes:
+      label: What happened?
+      description: Describe what went wrong.
+      placeholder: "When I clicked X, I expected Y, but instead..."
+    validations:
+      required: true
+
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to reproduce
+      description: If applicable, list the steps that lead to the issue.
+      placeholder: |
+        1. Go to ...
+        2. Click on ...
+        3. See error
+    validations:
+      required: false
+
+  - type: input
+    id: browser
+    attributes:
+      label: Browser or Platform
+      placeholder: e.g. Chrome 126, Windows 11, iPhone Safari
+    validations:
+      required: false
+
+  - type: textarea
+    id: additional
+    attributes:
+      label: Anything else?
+      description: Add screenshots or other info if needed.
+    validations:
+      required: false

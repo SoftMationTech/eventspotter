@@ -1,0 +1,17 @@
+name: 🗣️ Feedback / Help
+description: Ask questions or give general feedback
+title: "[Feedback] "
+labels: [feedback]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Need help or want to share your thoughts about EventSpotter? You're in the right place.
+
+  - type: textarea
+    id: message
+    attributes:
+      label: What do you want to share?
+      placeholder: "I'm wondering if you support..."
+    validations:
+      required: true
